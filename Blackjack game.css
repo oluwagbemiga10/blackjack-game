@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'poppins', sans-serif;
+}
+
+div{
+    text-align: center;
+    margin: 0 auto;
+    line-height: 50px;
+    margin-top: 70px;
+    background-color: aqua;
+    padding: 40px 0px;
+    width: 400px;
+    border-radius: 10px;
+    color: white;
+}
+h2{
+    font-size: 18px;
+}
+h3{
+    font-size: 16px;
+}
+button{
+    padding: 10px 20px;
+    margin-right: 10px;
+    background-color: white;
+    color: aqua;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
